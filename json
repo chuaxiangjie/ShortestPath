@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "message": "Generate number successfully",
+  "errors": [],
+  "data": {
+    "number": "2021-00002"
+  }
+}
